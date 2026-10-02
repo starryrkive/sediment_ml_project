@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw source data — too large / not for GitHub
+data/raw/
+*.mat
+
+# macOS
+.DS_Store
+
+# Temporary files
+/tmp/
+*.tmp
+
+# Keep derived datasets and model outputs
